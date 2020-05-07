@@ -1,0 +1,14 @@
+
+
+.body-img
+{
+	background: url("images/2.jpeg");
+	background-size: cover;
+}
+.container
+{
+	width: 400px;
+	 margin-top: 100px;
+}
+
+
